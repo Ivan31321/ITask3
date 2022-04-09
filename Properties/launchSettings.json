@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ITask3": {
+      "commandName": "Project",
+      "commandLineArgs": "rock scissors paper lizzard spock"
+    }
+  }
+}
